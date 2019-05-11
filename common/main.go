@@ -1,4 +1,4 @@
-package directory
+package common
 
 func main() {
 
